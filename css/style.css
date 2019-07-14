@@ -120,7 +120,7 @@ li{
 #slide5:checked ~ #controls label:nth-child(4){
 	width: 32px;
 	height: 17px;
-	background-image: url(/img/prev.png);
+	background-image: url(./img/prev.png);
 	background-repeat: no-repeat;
 	-webkit-background-size: contain;
 	background-size: contain;
@@ -136,7 +136,7 @@ li{
 #slide5:checked ~ #controls label:nth-child(1){
 	width: 33px;
 	height: 18px;
-	background-image: url(/img/next.png);
+	background-image: url(./img/next.png);
 	background-repeat: no-repeat;
 	-webkit-background-size: contain;
 	background-size: contain;
@@ -192,18 +192,18 @@ h1{
 	background-position: center;
 }
 .nav-net_1{
-	background-image: url(/img/F3.png);
+	background-image: url(./img/F3.png);
 	-webkit-background-size: 27%;
 	background-size: 27%;
 }
 .nav-net_2{
-	background-image: url(/img/F2.png);
+	background-image: url(./img/F2.png);
 	-webkit-background-size: 32%;
 	background-size: 32%;
 	margin-left: 13px;
 }
 .nav-net_3{
-	background-image: url(/img/F1.png);
+	background-image: url(./img/F1.png);
 	-webkit-background-size: 30%;
 	background-size: 30%;
 	margin-left: 13px;
@@ -212,13 +212,13 @@ h1{
 	background-color: #000;
 }
 .nav-net_1:hover{
-	background-image: url(/img/F3w.png);
+	background-image: url(./img/F3w.png);
 }
 .nav-net_2:hover{
-	background-image: url(/img/F2w.png);
+	background-image: url(./img/F2w.png);
 }
 .nav-net_3:hover{
-	background-image: url(/img/F1w.png);
+	background-image: url(./img/F1w.png);
 }
 .slider-text{
 	margin-top: 34px;
@@ -244,7 +244,7 @@ h1{
 aside{
 	width: 501px;
 	height: 386px;
-	background: url(/img/aside_bg.png);
+	background: url(./img/aside_bg.png);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -362,7 +362,7 @@ aside{
 .layout_img1{
 	height: 62.99%;
 	background-color: #f8f8f8;
-	background-image: url(/img/7.jpg);
+	background-image: url(./img/7.jpg);
 	-webkit-background-size: 104%;
 	background-size: 104%;
 	background-repeat: no-repeat;
@@ -382,7 +382,7 @@ aside{
 }
 .layout_img3{
 	width: 39.87%;
-	background-image: url(/img/10.jpg);
+	background-image: url(./img/10.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -438,7 +438,7 @@ aside{
 }
 .layout_img4{
 	height: 49.33%;
-	background-image: url(/img/9.jpg);
+	background-image: url(./img/9.jpg);
 	-webkit-background-size: 168%;
 	background-size: 168%;
 	background-position: -142px -8px;
@@ -453,7 +453,7 @@ aside{
 }
 .layout_img5{
 	height: 46.29%;
-	background-image: url(/img/11.png);
+	background-image: url(./img/11.png);
 	-webkit-background-size: 90%;
 	background-size: 90%;
 	background-repeat: no-repeat;
@@ -472,7 +472,7 @@ aside{
 
 .banner{
 	background-color: #00b7d9;
-	background-image: url(/img/12.png);
+	background-image: url(./img/12.png);
 	background-size: 59%;
 	background-repeat: no-repeat;
 	background-position: -45px -29px;
@@ -714,7 +714,7 @@ aside{
 
 .newsletter{
 	background-color: #d7dbd5;
-	background-image: url(/img/19.png);
+	background-image: url(./img/19.png);
 	background-repeat: no-repeat;
 	background-position: 514px -28px;
 	-webkit-background-size: 35%;
